@@ -4,7 +4,7 @@ This is implementation for public work "Classification of Visualization Types an
 
 # Methodology Pipeline
 
-![model pipeline](media/uniModalPipeline.pdf)
+![model pipeline](media/uniModalPipeline.png)
 
 ## Get started (Requirements and Setup)
 Python version >= 3.9
