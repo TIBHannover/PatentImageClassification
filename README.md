@@ -1,6 +1,8 @@
+Note: This repository will be fully updated once get the official notification.
+
 # Patent Image Classification
 
-This is implementation for public work "Classification of Visualization Types and Perspectives in Patents"
+This repository represents the implementation for public work "Classification of Visualization Types and Perspectives in Patents"
 
 # Methodology Pipeline
 
