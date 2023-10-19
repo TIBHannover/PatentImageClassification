@@ -1,8 +1,11 @@
 Note: This repository will be fully updated once get the official notification.
 
-# Patent Image Classification
+# Classification of Visualization Types and Perspectives in Patents
 
 This repository represents the implementation for public work "Classification of Visualization Types and Perspectives in Patents"
+
+# Full paper
+https://link.springer.com/chapter/10.1007/978-3-031-43849-3_16 
 
 # Methodology Pipeline
 
@@ -11,8 +14,13 @@ This repository represents the implementation for public work "Classification of
 ## Get started (Requirements and Setup)
 Python version >= 3.9
 
-## Dataset
-Dataset distribution for train, validation and test set. 
+## DatasetS
+
+###Extended_CLEF_IP_2011_Dataset
+https://zenodo.org/records/10019328
+
+###USPTO_PIP_Dataset
+https://zenodo.org/records/10019506
 
 ## Training and testing
 ```bash
