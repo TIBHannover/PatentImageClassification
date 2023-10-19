@@ -14,13 +14,11 @@ https://link.springer.com/chapter/10.1007/978-3-031-43849-3_16
 ## Get started (Requirements and Setup)
 Python version >= 3.9
 
-## DatasetS
+## Datasets
 
-###Extended_CLEF_IP_2011_Dataset
-https://zenodo.org/records/10019328
+Extended_CLEF_IP_2011_Dataset: https://zenodo.org/records/10019328
 
-###USPTO_PIP_Dataset
-https://zenodo.org/records/10019506
+USPTO_PIP_Dataset: https://zenodo.org/records/10019506
 
 ## Training and testing
 ```bash
